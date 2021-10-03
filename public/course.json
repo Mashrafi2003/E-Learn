@@ -1,0 +1,121 @@
+[
+  {
+    "key": "615a2aca46df58f45d3c3f90",
+    "index": 0,
+    "available": false,
+    "price": "200",
+    "img": "https://img.freepik.com/free-vector/software-development-programming-coding-learning-information-technology-courses-it-courses-all-levels-computing-hi-tech-course-concept_335657-191.jpg?size=626&ext=jpg",
+    "name": "Learn How to develop a management Software with Dr. Albert",
+    "company": "ZOLAREX",
+    "about": "Reduce deployment headaches. Code first, experiment next, release confidently. Don’t juggle between different platforms to optimize and deliver your product. Enterprises supported. No credit card needed. Free Startup Plan."
+  },
+  {
+    "key": "615a2aca27526c0eee9615da",
+    "index": 1,
+    "available": true,
+    "price": "150",
+    "img": "https://leverageedu.com/blog/pu/wp-content/uploads/sites/3/2019/10/BBA-MBA-Integrated-Course.png",
+    "name": "Learn How A API works with David Beckhum",
+    "company": "WRAPTURE",
+    "about": "An API is a piece of software within a system that defines how other components or systems can use that system. The API defines the types of requests that can be made, how to make them, and the data formats that must be used."
+  },
+  {
+    "key": "615a2aca1aa1f86b64cb3759",
+    "index": 2,
+    "available": true,
+    "price": "340",
+    "img": "https://pcilearning.com/wp-content/uploads/2015/06/computer_small_banner-2.jpg",
+    "name": "Learn Microsoft Excel and Complete guideline",
+    "company": "EZENTIA",
+    "about": "Microsoft Excel is the industry leading spreadsheet program, used by millions of people all over the world. Excel and other spreadsheet tools are great for data manipulation, analysis, and visualization – you can sort, filter, format, and chart your data all within one program."
+  },
+  {
+    "key": "615a2aca2573ba307c3ec96d",
+    "index": 3,
+    "available": false,
+    "price": "130",
+    "img":"https://miro.medium.com/max/750/1*HuoU7i1AIvkUSApmIx8XQw.png"
+    , "name": "Learn The Basics of Java Language",
+    "company": "ISOLOGICA",
+    "about": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore."
+  },
+  {
+    "key": "615a2aca3ac99654508b7bb3",
+    "index": 4,
+    "available": true,
+    "price": "500",
+    "img": "https://1.bp.blogspot.com/-kxUhcTdkP9E/XtEK16ut5hI/AAAAAAAAfYk/6ZelB2ts6vcVm9vrKdfbNutH-c_gfvuggCLcBGAsYHQ/w1200-h630-p-k-no-nu/Getting%2BStarted%2Bwith%2BKotlin%2BUdemy%2Bcourse.png",
+    "name": "Develop Native Apps with Kotlin",
+    "company": "ZAJ",
+    "about": "Kotlin is a general purpose, free, open source, statically typed “pragmatic” programming language initially designed for the JVM (Java Virtual Machine) and Android that combines object-oriented and functional programming features. It is focused on interoperability, safety, clarity, and tooling support"
+  },
+  {
+    "key": "615a2acab6b02041c87d70fb",
+    "index": 5,
+    "available": true,
+    "price": "$180",
+    "img": "https://www.thecollearn.com/wp-content/uploads/2020/04/Copy-of-Copy-of-Template-education-2-1-600x750.jpg"
+    ,"name": "Learn about competitive Programming Basics ",
+    "company": "ZIALACTIC",
+    "about": "Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. Contestants are referred to as sport programmers"
+  },
+  {
+    "key": "615a2aca7d1d5dd03227b9bb",
+    "index": 6,
+    "available": true,
+    "price": "430",
+    "img": "https://1.bp.blogspot.com/-KnGVLo7U7gQ/Xx0E8Sh8KtI/AAAAAAAAhnE/THS8q3fq9zg3jWTQqFr2s0XuE_M4BABNQCLcBGAsYHQ/w1200-h630-p-k-no-nu/free%2BC%2BProgramming%2Bcourses%2Bfor%2Bbeginners.png",
+    "name": "Learn Basics of C programming",
+    "company": "DIGIPRINT",
+    "about": "C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early 1970s"
+  },
+  {
+    "key": "615a2acac0693dd4ddb7a56e",
+    "index": 7,
+    "available": false,
+    "price": "800",
+    "img": "https://lifebeyondnumbers.b-cdn.net/wp-content/uploads/2020/11/ms-excel-course.jpg",
+    "name": "Learn Microsoft Excel With projects",
+    "company": "MEDESIGN",
+    "about": "Microsoft Excel is a software program produced by Microsoft that allows users to organize, format and calculate data with formulas using a spreadsheet system. This software is part of the Microsoft Office suite and is compatible with other applications in the Office suite."
+  },
+  {
+    "key": "615a2aca25ed5606da3690ae",
+    "index": 8,
+    "available": true,
+    "price": "500",
+    "img": "https://www.howtofree.org/wp-content/uploads/2020/11/homepagefeaturebox-ps-ad-jun18.jpg",
+    "name": "Learn Advanced Adobe Photoshop",
+    "company": "ESSENSIA",
+    "about": "Photoshop is Adobe's photo editing, image creation and graphic design software. The software provides many image editing features for raster (pixel-based) images as well as vector graphics. It uses a layer-based editing system that enables image creation and altering with multiple overlays that support transparency."
+  },
+  {
+    "key": "615a2aca3c5cc43b9665a27d",
+    "index": 9,
+    "available": true,
+    "price": "1000",
+    "img": "https://cdn.neow.in/news/images/uploaded/2019/07/1562839325_product_28668_product_shots1_story.jpg",
+    "name": "Learn Cotext of Flutter From Scratch",
+    "company": "KINETICA",
+    "about": "Flutter is a cross-platform UI toolkit that is designed to allow code reuse across operating systems such as iOS and Android, while also allowing applications to interface directly with underlying platform services. ... An introduction to widgets: The fundamental building blocks of Flutter user interfaces."},
+  {
+    "key": "615a2acac8a196687dbec77a",
+    "index": 10,
+    "available": false,
+    "price": "1500",
+    "img": "https://web.programming-hero.com/thumbnail.png",
+    "name": "Learn Web Development With Programming Hero",
+    "company": "EPLODE",
+    "about": "Programming Hero is the selected learning app for #1 programming promoting organization Code.org. We are included in the Hour of Code. In November 2019, Programming Hero won the best Tech Code Startup Competition in Silicon Valley, California, USA"
+  },
+  {
+    "key": "615a2aca8aa8aaf8191b9aa4",
+    "index": 11,
+    "available": false,
+    "price": "390",
+    "img": "https://www.ftxinfotech.com/wp-content/uploads/2020/12/Hire-MongoDB-developer.png",
+    "name": "Learn MongoDB for DataBase Solution",
+    "company": "NEWCUBE",
+    "about": "MongoDB is an open source NoSQL database management program. NoSQL is used as an alternative to traditional relational databases. NoSQL databases are quite useful for working with large sets of distributed data. MongoDB is a tool that can manage document-oriented information, store or retrieve information."
+  }
+]
