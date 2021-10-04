@@ -4,6 +4,7 @@ import './Footer.css'
 const Footer = () => {
     return (
         <div className='footer-container'>
+            {/* Footer Details about what E-learn is */}
             <div className='details-container'>
                 <h4>About E-learn</h4>
                 <p>
@@ -27,6 +28,7 @@ const Footer = () => {
                     <li>Become a instructor</li>
                 </ul>
             </div>
+            {/* CopyRight and Links are shown Here */}
             <div>
                 <h5 className='copyright'>All rights are reserved by E-learn 2022</h5>
             </div>

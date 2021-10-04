@@ -3,8 +3,10 @@ import React, { useEffect, useState } from 'react';
 import './About.css'
 
 const About = () => {
+  // Loading Data From Fake API
     const [course , setCourse] = useState([]);
 
+  // Showing Data From the API in the UI
     useEffect(()=>{
         fetch('./course.json')
         .then(res=>res.json())
@@ -13,10 +15,12 @@ const About = () => {
     
     return (
         <div className='about-ui'>
+          {/* Took Single Product from every Product in this section */}
            {
               course.map((product) =>
               <div className='single-course'>
                   <Card sx={{ maxWidth: 345 }}>
+                    {/* Showed The Data On UI using Card Component from Material UI */}
       <CardActionArea>
         <CardMedia
           component="img"

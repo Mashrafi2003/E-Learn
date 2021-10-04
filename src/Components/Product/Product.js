@@ -2,10 +2,14 @@ import { Button, Card, CardActions, CardContent, CardMedia, Typography } from '@
 import React from 'react';
 import './Product.css'
 
+//Took The Props from Feature.js to Show on The UI 
+
 const Product = (props) => {
-    // console.log(props.product)
+    
+    // Distructuring The data got from API and using them as a single parameter
     const {name , price , img } = props.product;
     return (
+      // Used Card component from Material UI to show the products on Feature page
         <div className='product-container'>
            <Card sx={{ maxWidth: 345 }}>
       <CardMedia
