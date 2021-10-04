@@ -1,0 +1,28 @@
+.featured-container{
+    height: 85.7vh;
+    background-image: url(../../images/featured.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.featured-title{
+    text-align: center;
+    margin: 0;
+    color: white;
+    /* margin-top: 200px; */
+
+}
+.button-group{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.button-group button{
+    margin: 10px;
+}
+.products-ui{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 20px;
+}

@@ -5,7 +5,7 @@
     "available": false,
     "price": "200",
     "img": "https://img.freepik.com/free-vector/software-development-programming-coding-learning-information-technology-courses-it-courses-all-levels-computing-hi-tech-course-concept_335657-191.jpg?size=626&ext=jpg",
-    "name": "Learn How to develop a management Software ",
+    "name": "Learn How to develop a management Softwars",
     "company": "ZOLAREX",
     "about": "Reduce deployment headaches. Code first, experiment next, release confidently. Don’t juggle between different platforms to optimize and deliver your product. Enterprises supported. No credit card needed. Free Startup Plan."
   },
@@ -15,7 +15,7 @@
     "available": true,
     "price": "150",
     "img": "https://leverageedu.com/blog/pu/wp-content/uploads/sites/3/2019/10/BBA-MBA-Integrated-Course.png",
-    "name": "Learn How An API works with David Beckhum",
+    "name": "Learn How A API works with David Beckhum",
     "company": "WRAPTURE",
     "about": "An API is a piece of software within a system that defines how other components or systems can use that system. The API defines the types of requests that can be made, how to make them, and the data formats that must be used."
   },

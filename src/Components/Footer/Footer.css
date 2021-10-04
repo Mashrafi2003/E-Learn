@@ -1,0 +1,27 @@
+.footer-container{
+    background-color: rgb(0, 0, 0);
+    height: 60vh;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    color: rgba(255, 255, 255, 0.788);
+    
+}
+.details-container{
+    margin-left: 30px;
+    border-right: 1px solid black;
+}
+.leatest{
+    margin-left: 30px;
+}
+.copyright{
+    text-align: center;
+}
+.fonts{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.font{
+    margin: 5px;
+}
