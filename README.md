@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+## Details about this website will be written here right below :
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Name : E-learn
+purpose : An online plartform for the people who wants to take courses.
+Duration : It took almost a time of 8 hours to make this project
 
-## Available Scripts
+Technologies : This is a front-end website built on React JS . Basically This is a website made on React Router.
+We've made fake data and all stuffs to make this website more interactive.
 
-In the project directory, you can run:
+## Parts of this website
 
-### `npm start`
+This website now have a total of 3 parts in it. We have a home page where we are featuring some major part and services 
+of the website
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Then we have the about us page . where We have showed all the products or all the courses and ways to buy it.. We have 
+launched many courses which can be bought
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Next we have features page. Where we have made a great service and fetures . Like how we manage all the services.
+What we provide and how we will help others to be a part of our leargly going industry. There are skill development 
+choices and all other stuffs that can make your day awesome in some way
 
-### `npm test`
+### Future Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. In the near future we will be adding search option on the UI . While you need to find all the courses by your self
+we will make it easier and give it a go with a ability to search.
 
-### `npm run build`
+2. We will be adding a sorting out option where it will be easier to find your own course
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. We will make this website more interactive and more animated so that you might experience a great time in our website
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. We will increase our courses and make the best use of your money
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+5.We will add your own profile so that you may able to see your own progress and thereby you can have aa great ability to improve
